@@ -6,9 +6,13 @@
 header{
 	height: 100px;
 	width: 100%;
-	background-color: green;
+	background-color: #239B56;
+	color: white;
 }
 
-.cs{
-	background-color: red;	
+footer{
+	height: 150px;
+	background-color: #196F3D;	
+	margin-top: 100px;
+	color: white;
 }
